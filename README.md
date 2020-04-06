@@ -4,7 +4,11 @@ This is my process currently for keeping track of my work related time. I develo
 ## How to use?
 Simply create a file in this directory for each day you wish to track. Do not add a file extension. 
 
-Use `<FOUR DIGIT YEAR>-<TWO DIGIT MONTH>-<DAY OF MONTH>` format for file names, use military time: `<TWO DIGIT HOUR>:<TWO DIGIT MINUTE>` in format `<START TIME> - <END TIME> : <PROJECT KEY> - <DESCRIPTION>`
+### File Names
+Use `<FOUR DIGIT YEAR>-<TWO DIGIT MONTH>-<DAY OF MONTH>` format for file names.
+
+### Entries / Rows
+Use military time: `<TWO DIGIT HOUR>:<TWO DIGIT MINUTE>` in format `<START TIME> - <END TIME> : <PROJECT KEY> - <DESCRIPTION>`
 
 ### Example
 Filename: `2020-04-05`
