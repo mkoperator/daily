@@ -12,6 +12,7 @@ Use military time: `<TWO DIGIT HOUR>:<TWO DIGIT MINUTE>` in format `<START TIME>
 
 ### Example
 Filename: `2020-04-05`
+
 Rows:
 ```
 15:30 - 19:30 : PARSER - script time analysis.
