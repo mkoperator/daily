@@ -6,12 +6,13 @@ Simply create a file in this directory for each day you wish to track. Do not ad
 
 Use `<FOUR DIGIT YEAR>-<TWO DIGIT MONTH>-<DAY OF MONTH>` format for file names, use military time: `<TWO DIGIT HOUR>:<TWO DIGIT MINUTE>` in format `<START TIME> - <END TIME> : <PROJECT KEY> - <DESCRIPTION>`
 
-Filename: 
-2020-04-05
+### Example
+Filename: `2020-04-05`
 Rows:
+```
 15:30 - 19:30 : PARSER - script time analysis.
 19:30 - 20:30 : PARSER - work on parser app, publish to github.
-
+```
 ## Analysis
 So the goal of this is to be able to answer questions like these below:
 
